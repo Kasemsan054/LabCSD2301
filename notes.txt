@@ -1,1 +1,3 @@
-Day 1 notes
+ข้อมูลปริมาณการผลิตข้าวนาปรัง     https://data.go.th/en/dataset/nabc-oae0023
+
+ปริมาณน้ำฝนจากเครื่องวัดมวลดิน     https://data.go.th/en/dataset/gdpublish-rain-gauge-data-from-slope-movement-monitoring-station
