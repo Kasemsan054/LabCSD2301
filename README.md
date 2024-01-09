@@ -1,1 +1,1 @@
-# This code repository is for educational purposes only.
+# This code repository is for Education only.
