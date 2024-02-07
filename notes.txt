@@ -1,3 +1,5 @@
-ข้อมูลปริมาณการผลิตข้าวนาปรัง     https://data.go.th/en/dataset/nabc-oae0023
+ข้อมูลปริมาณการผลิตข้าวนาปรัง
+  https://mis-app.oae.go.th/product/ข้าวนาปรัง
 
-ปริมาณน้ำฝนจากเครื่องวัดมวลดิน     https://data.go.th/en/dataset/gdpublish-rain-gauge-data-from-slope-movement-monitoring-station
+ข้อมูลปริมาณน้ำฝน
+  https://digi.data.go.th/showcase/thailand-rainfall-data/
